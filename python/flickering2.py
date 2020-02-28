@@ -31,9 +31,9 @@ def setColor(r, g, b):
 print ("starting")
 setup()
 while True:
-    r = random.randint(0, 200)
-    g = random.randint(0, 100)
-    b = random.randint(0, 0)
+    r = random.randint(0, 255)
+    g = random.randint(0, 255)
+    b = random.randint(0, 255)
     print (r, g, b)
     setColor(r, g, b)
     time.sleep(0.2)
