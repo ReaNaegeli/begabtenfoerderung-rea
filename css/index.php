@@ -24,6 +24,9 @@
   Hallo Welt
   <br>
 </div>
+
+<p><b><a href="www.google.com" target="_blank">Link zu Google</a></b></p>
+
     </body>
 </html>
 
