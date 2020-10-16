@@ -1,0 +1,49 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    float: left;
+  }
+  
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+
+  body {
+    background-size: 200% 200%;
+    background-color: #00ccffde;
+
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    color: #8400ff; 
+    font-family: arial, sans-serif 
+    
+
+    div.gallery {
+      margin: 5px;
+      border: 1px solid #ccc;
+      float: left;
+      width: 180px;
+    }
+    
+    div.gallery:hover {
+      border: 1px solid #777;
+    }
+    
+    div.gallery img {
+      width: 100%;
+      height: auto;
+    }
+    
+    div.desc {
+      padding: 15px;
+      text-align: center;
+    }
+}
