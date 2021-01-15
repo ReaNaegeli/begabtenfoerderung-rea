@@ -15,7 +15,7 @@
     </div>
 
     <div class="footer">
-      <c> by rea
+      <c> by rea and lucien
     </div>
 
 
